@@ -1,4 +1,4 @@
-FILEPATH = "todos.txt"
+FILEPATH = "todo.txt"
 
 
 
