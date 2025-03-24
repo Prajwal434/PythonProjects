@@ -1,11 +1,8 @@
 sleep
 stand
-mma
-sit
-singing in the dark
-dance
+muay thaisit
+idkdance
 wake up on time
-sleep on time
 boxing
 add to calendar
 Hi checking
@@ -13,3 +10,4 @@ Hello Again
 add
 add todos
 why is there space?
+idk
