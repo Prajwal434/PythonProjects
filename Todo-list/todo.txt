@@ -1,7 +1,7 @@
-eat
+sleep
 stand
 mma
-walk
+sit
 singing in the dark
 dance
 wake up on time
@@ -10,3 +10,8 @@ boxing
 add to calendar
 Hi checking
 Hello Again
+
+add
+add
+add todos
+why is there space?
